@@ -1,0 +1,7 @@
+h1. TCPing
+
+This pair of simple programs sends ping-pong messages across a long-lived TCP connection.
+
+It's useful for testing stateful firewall redundancy, where you want to see the TCP session survive failover.
+
+Blah.
